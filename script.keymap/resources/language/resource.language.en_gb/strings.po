@@ -784,7 +784,11 @@ msgctxt "#30911"
 msgid "Toggle Font"
 msgstr ""
 
-# empty strings from id 30912 to 30999
+msgctxt "#30912"
+msgid "Reload Skin"
+msgstr ""
+
+# empty strings from id 30913 to 30999
 
 # Virtual Keyboard
 
@@ -940,7 +944,11 @@ msgctxt "#31118"
 msgid "Switch to a new random preset"
 msgstr ""
 
-# empty strings from id 31119 to 31199
+msgctxt "#31119"
+msgid "Player debug video"
+msgstr ""
+
+# empty strings from id 31120 to 31199
 
 # Activate Window
 

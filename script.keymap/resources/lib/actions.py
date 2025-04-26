@@ -178,7 +178,7 @@ _actions = [
         "settingsreset", tr(30909),
         "settingslevelchange", tr(30910),
         "togglefont", tr(30911),
-
+        "reloadskin", tr(30912)
     ]],
 
     ["Virtual Keyboard", [
@@ -209,6 +209,7 @@ _actions = [
         "cleanlibrary(music)", tr(31103),
         "playerprocessinfo", tr(31104),
         "playerdebug", tr(31105),
+        "playerdebugvideo", tr(31119),
         "screenshot", tr(31106),
         "reloadkeymaps", tr(31107),
         "increasepar", tr(31108),
